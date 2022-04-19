@@ -1,0 +1,26 @@
+body{
+    background: #ccc;
+}
+#wrap_page{
+    width: 1080px;
+    margin: 0 auto;
+    overflow: hidden;
+    background: #fff;
+    padding: 30px;
+}
+#header{
+    text-align: center;
+}
+#menu ul li{
+    display: inline;
+    margin-left: 10px;
+    padding-left: 50px;
+}
+#content_page{
+    width: 55%;
+    float: left;
+}
+#sidebar{
+    width:35%;
+    float: right;
+}
